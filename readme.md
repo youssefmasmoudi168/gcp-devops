@@ -1,1 +1,1 @@
-#### this is my gcp devops project repo
+#### this is my gcp devops project repository
